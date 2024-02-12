@@ -1,9 +1,8 @@
-css
 body {
     font-family: Arial, sans-serif;
 }
 
- .align {
+ h1 {
     text-align: center;
     font-size: 40px;
 }
