@@ -11,6 +11,7 @@ body {
     color: white;
     padding: 20px;
     margin: 20px 0;
+    block-size: fit-content;
 }
 .color2 {
     background-color: #eb0f0fd4; /* Secondary box color */
@@ -18,9 +19,4 @@ body {
     padding: 20px;
     margin: 20px 0;
 }
-.box {
-    width: 200px; /* Width of the box */
-    height: 100px; /* Height of the box */
-    border: 2px solid; /* Border style (solid) and width (2px) */
-    border-color: black; /* Border color */
-}
+
