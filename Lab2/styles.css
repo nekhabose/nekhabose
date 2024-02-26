@@ -43,18 +43,18 @@
 
 #flex-section3 .box {
 
-	display: flex;
+   display: flex;
     align-items: center;
     justify-content: center;
-    height: 100%; /* Adjust according to your layout */
+    height: 100%; 
 
 }
 
 #flex-section3 .tags ul {
 
-	display: flex;
+    display: flex;
     flex-wrap: wrap;
-    gap: 10px; /* Adjust for space between tags */
+    gap: 10px; 
     padding: 0;
     list-style: none;
 
